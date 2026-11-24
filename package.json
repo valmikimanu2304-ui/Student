@@ -1,0 +1,22 @@
+{
+  "name": "ai-smart-attendance-system",
+  "version": "2.0.0",
+  "description": "AI-Based Smart Attendance Management System with OpenCV YuNet & SFace Face Recognition",
+  "main": "run.py",
+  "scripts": {
+    "start": "python run.py",
+    "dev:frontend": "cd frontend && npm run dev",
+    "dev:backend": "cd backend && python app.py",
+    "build": "cd frontend && npm run build"
+  },
+  "keywords": [
+    "face-recognition",
+    "attendance-management",
+    "opencv",
+    "deep-learning",
+    "react",
+    "flask"
+  ],
+  "author": "Smart Campus AI",
+  "license": "MIT"
+}

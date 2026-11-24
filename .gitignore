@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.sqlite3-journal
+
+# Environment variables
+.env
+.env.local
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Editor directories
+.vscode/
+.idea/
